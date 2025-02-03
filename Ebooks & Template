@@ -1,0 +1,14 @@
+git add ebooks/
+git add templates/
+git commit -m "Add eBooks and templates"
+# Project Title
+
+This repository contains a collection of eBooks and templates.
+
+## eBooks
+- **eBook 1**: Description and download link.
+- **eBook 2**: Description and download link.
+
+## Templates
+- **Template 1**: Description and download link.
+- **Template 2**: Description and download link.
